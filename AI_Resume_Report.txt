@@ -1,0 +1,17 @@
+
+AI RESUME SCREENING REPORT
+
+Resume Match Percentage : 1.24%
+
+ATS Score : 73.68/100
+
+Overall Rating : ★★★ Good
+
+Required Skills:
+['python', 'java', 'c', 'sql', 'flask', 'machine learning', 'deep learning', 'nlp', 'computer vision', 'tensorflow', 'scikit-learn', 'numpy', 'pandas', 'opencv', 'mysql', 'mongodb', 'aws', 'git', 'github']
+
+Matched Skills:
+['python', 'java', 'c', 'sql', 'flask', 'nlp', 'numpy', 'pandas', 'opencv', 'mysql', 'mongodb', 'aws', 'git', 'github']
+
+Missing Skills:
+['machine learning', 'deep learning', 'scikit-learn', 'tensorflow']
